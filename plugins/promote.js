@@ -1,17 +1,17 @@
 /* ════════════════════════════════
- *  🚀  MALVIN KING TECH - YT
+ *  🚀  RONY SKIES - RS
  * ════════════════════════════════
  *  
- *  📺  YouTube    : https://www.youtube.com/@malvintech2
- *  💻  GitHub     : https://github.com/XdKing2
+ *  📺  YouTube    : https://www.youtube.com/@ronyskies1
+ *  💻  GitHub     : https://github.com/ronaldomazive915-source
  *  🌐  Website    : Coming Soon
  *  
- *  👨‍💻  Developer  : Malvin King
+ *  👨‍💻  Developer  : RONY SKIES 
  *  📧  Contact    : Available on GitHub
  *  
  *  ⚠️   Please do not remove this watermark ( credit )
  * ════════════════════════════════
- *  © 2025 Malvin Tech - All Rights Reserved
+ *  © 2025 RONY SKIES - All Rights Reserved
  * ═════════════════════════════ */
 
 let handler = async (m, { mking, isAdmins, isBotAdmins, args, reply }) => {
