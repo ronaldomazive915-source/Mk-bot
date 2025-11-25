@@ -1,18 +1,18 @@
 /* ═════════════════════════════════
- *  🚀  MALVIN KING TECH - YT
+ *  🚀  RONY SKIES  - RS
  * ═════════════════════════════════
  *  
- *  📺  YouTube    : https://www.youtube.com/@malvintech2
- *  💻  GitHub     : https://github.com/XdKing2
+ *  📺  YouTube    : https://www.youtube.com/@ronyskies1
+ *  💻  GitHub     : https://github.com/ronaldomazive915-source
  *  🌐  Website    : Coming Soon
- *  🪀  WhatsApp  : https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S
+ *  🪀  WhatsApp  : https://whatsapp.com/channel/0029VbBnRol1XquTPCwUsk15
  *  
- *  👨‍💻  Developer  : Malvin King
+ *  👨‍💻  Developer  : Rony Skies
  *  📧  Contact    : Available on GitHub
  *  
  *  ⚠️   Please do not remove this watermark
  * ═════════════════════════════════
- *  © 2025 Malvin Tech - All Rights Reserved
+ *  © 2025 Rony Skies - All Rights Reserved
  * ════════════════════════════════ */
 
 const fs = require('fs')
@@ -20,16 +20,16 @@ const chalk = require('chalk')
 
 //———————[ Owner Config ]——————————//
 
-global.ownernumber = '263714757857' // Change to your number
-global.ownername = 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ' // add ur name
+global.ownernumber = '27696397895' // Change to your number
+global.ownername = 'Rony Skies' // add ur name
 global.botMode ='public' // change to public or self
 
 //————————[ Bot Config ]—————————//
 
 global.SESSION_ID = ""; // add ur session id starts with starcore~
-global.namabot = "ᴍᴋ-ʙᴏᴛ"
-global.nomorbot = '263714757857' // Change to yourbot number
-global.pair = "MRMALVIN"
+global.namabot = "Rony-ʙᴏᴛ"
+global.nomorbot = '27696397895' // Change to yourbot number
+global.pair = "RONYSKIE"
 global.version = '1.0.1'
 global.autojoingc = false
 global.anticall = false
@@ -37,15 +37,15 @@ global.autoreadsw = false
 global.autoread = false
 
 //——————[ Social Media Config ]———————//
-global.web = "https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S"
-global.linkSaluran = "https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S"
+global.web = "https://whatsapp.com/channel/0029VbBnRol1XquTPCwUsk15"
+global.linkSaluran = "https://whatsapp.com/channel/0029VbBnRol1XquTPCwUsk15"
 global.idSaluran = "120363402507750390@newsletter"
-global.nameSaluran = "Malvin Tech Ch."
+global.nameSaluran = "Rony Skies."
 
 //————————[ Watermark Config ]———————//
-global.packname = 'Stick By Mk'
-global.author = 'YT Malvin King Tech'
-global.foother = 'Made By Malvin King'
+global.packname = 'Stick By Rony'
+global.author = 'RS Rony Skies'
+global.foother = 'Made By Ronaldo Mazive'
 
 
 //———————[ Media Config ]—————————//
@@ -62,7 +62,7 @@ global.thumb = [
 // Delay Jpm & Pushctc || 1000 = 1 second
 global.delayJpm = 3500
 global.delayPushkontak = 5000
-global.namakontak = "AutoSave M-K"
+global.namakontak = "AutoSave R-M"
 
 //——————[ Message Config ]——————————//
 global.mess = {
