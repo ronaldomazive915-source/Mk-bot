@@ -1,13 +1,13 @@
 /*═══════════════════════════════════════════════════════
- *  ⌬  YT NeoShiroko Labs
+ *  ⌬  RS RONY SKIES 
  *═══════════════════════════════════════════════════════
  *  🌐  Website     : https://www.neolabsofficial.my.id
  *  ⌨︎  Developer   : https://zass.cloud
- *  ▶︎  YouTube     : https://www.youtube.com/@zassci_desu
+ *  ▶︎  YouTube     : https://www.youtube.com/@ronyskies1
  *  ⚙︎  Panel Murah : pteroku-desu.zass.cloud
  *
  *  ⚠︎  Please do not remove this watermark
- *═══════════════════ © 2025 Zass Desuta ─════════════════════
+ *═══════════════════ © 2025 RONY SKIES ─════════════════════
  */
 
 const fs = require("fs")
