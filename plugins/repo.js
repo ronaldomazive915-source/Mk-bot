@@ -1,14 +1,14 @@
 let handler = async (m, { reply }) => {
   const repoInfo = `
-*🤖 Mk-bot Repository*
+*🤖 RONY-bot Repository*
 
-📁 *Repository:* XdKing2/Mk-bot
-🔗 *GitHub Link:* https://github.com/XdKing2/Mk-bot
+📁 *Repository:* ronaldomazive915-source
+🔗 *GitHub Link:* https://github.com/ronaldomazive915-source
 
 ⭐ Feel free to star the repo if you like it!
 📝 Report issues and contribute to the project.
 
-*Thank you for using Mk-bot!* 🚀
+*Thank you for using RONY-bot!* 🚀
   `.trim();
 
   try {
