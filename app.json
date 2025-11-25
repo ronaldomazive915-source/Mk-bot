@@ -1,8 +1,8 @@
 {
-    "name": "MK-Bot",
-    "description": "WhatsApp Bot by Malvin King",
+    "name": "RONY-Bot",
+    "description": "WhatsApp Bot by Rony skies",
     "logo": "https://files.catbox.moe/641pvo.jpg",
-    "repository": "https://github.com/XdKing2/Mk-bot",
+    "repository": "https://github.com/ronaldomazive915-source",
     "keywords": ["whatsapp-bot", "malvin-king", "mk-bot"],
     "success_url": "/",
     "buildpacks": [
@@ -26,3 +26,4 @@
         }
     }
 }
+
