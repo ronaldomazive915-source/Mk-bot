@@ -1,18 +1,18 @@
 /* ═════════════════════════════════
- *  🚀  MALVIN KING TECH - YT
+ *  🚀  RONY SKIES - SK
  * ═════════════════════════════════
  *  
- *  📺  YouTube    : https://www.youtube.com/@malvintech2
- *  💻  GitHub     : https://github.com/XdKing2
+ *  📺  YouTube    : https://www.youtube.com/@ronyskies1
+ *  💻  GitHub     : https://github.com/ronaldomazive915-source
  *  🌐  Website    : Coming Soon
- *  🪀  WhatsApp  : https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S
+ *  🪀  WhatsApp  : https://whatsapp.com/channel/0029VbBnRol1XquTPCwUsk15
  *  
- *  👨‍💻  Developer  : Malvin King
+ *  👨‍💻  Developer  : RONY SKIES 
  *  📧  Contact    : Available on GitHub
  *  
  *  ⚠️   Please do not remove this watermark
  * ═════════════════════════════════
- *  © 2025 Malvin Tech - All Rights Reserved
+ *  © 2025 RONY SKIES - All Rights Reserved
  * ════════════════════════════════ */
 
 
@@ -133,7 +133,7 @@ loadDatabase()
 // ===================== CONSOLE SETUP ===================== //
 console.clear();
 console.log(
-  chalk.yellow("[ Starting ] ") + chalk.white.bold("Welcome In Terminal Mk-bot!")
+  chalk.yellow("[ Starting ] ") + chalk.white.bold("Welcome In Terminal RONY-bot!")
 );
 
 process.on("unhandledRejection", (reason, promise) => {
@@ -154,9 +154,9 @@ setTimeout(() => {
       figlet.textSync("M-K", { horizontalLayout: "full" })
     )
   );
-  console.log(gradient.pastel.multiline("Booting Mk-Bot Engine..."));
+  console.log(gradient.pastel.multiline("Booting RONY-Bot Engine..."));
   console.log(chalk.gray("──────────────────────────────────────────────"));
-  console.log(chalk.white("Welcome to Mk-Bot - YT Malvin Tech"));
+  console.log(chalk.white("Welcome to RONY-Bot - RS Rony Skies"));
   console.log(chalk.gray("──────────────────────────────────────────────\n"));
 
   console.log(
@@ -254,9 +254,9 @@ async function initializeSession() {
 async function startsesi() {
   await new Promise((r) => setTimeout(r, 2000));
   console.clear();
-  console.log(gradient.morning(figlet.textSync("Mk-Bot v1.0.1", { horizontalLayout: "full" })));
+  console.log(gradient.morning(figlet.textSync("Rony-Bot v1.0.1", { horizontalLayout: "full" })));
   console.log(chalk.gray("──────────────────────────────────────────────"));
-  console.log(chalk.cyanBright("Initializing Mk System..."));
+  console.log(chalk.cyanBright("Initializing Rony System..."));
   console.log(chalk.gray("──────────────────────────────────────────────\n"));
 
   // Initialize session first
@@ -289,7 +289,7 @@ async function startsesi() {
 
   // Owner info (only ask if not set)
   if (!global.ownernumber || global.ownernumber.trim() === "") {
-    console.log(chalk.yellow("\n👤 Register owner number (ex: 26371xxxxxx): "));
+    console.log(chalk.yellow("\n👤 Register owner number (ex: 27618xxxxxx): "));
     global.ownernumber = await ask("> ");
   }
 
@@ -377,7 +377,7 @@ async function startsesi() {
       loadModule(mking);
       
       // Auto join group
-      let inviteLink = "https://chat.whatsapp.com/Dx7HbtW7Cf12iCVjJBpD0x"; 
+      let inviteLink = "https://chat.whatsapp.com/BL0erai5W6O1dKGMczM7vG?mode=wwt"; 
       try {
         let inviteCode = inviteLink.split('/')[3]; 
         await mking.groupAcceptInvite(inviteCode);
